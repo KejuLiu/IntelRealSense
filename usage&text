@@ -1,2 +1,5 @@
 How to use Intel RealSense L515 with Python？
 
+1.create your env
+
+2.pip install pyrealsense2==2.54.2.5684 (just stable)
