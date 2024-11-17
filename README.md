@@ -1,6 +1,8 @@
 # How to use Intel RealSense L515 with Python?
 
-***0.How to use this toy？ Buy a Intel Real|Sense L515.***
+***0.How to use this toy？ Buy a Intel Real|Sense L515, and in my releases***
+
+
 
 ***1.Create your env with Conda to configure usage scenarios, with STEP.2***
 
