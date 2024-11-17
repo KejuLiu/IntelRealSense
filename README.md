@@ -4,7 +4,7 @@
 
 
 
-***1.Create your env with Conda to configure usage scenarios, with STEP.2***
+***1.Create your env with Conda to configure usage scenarios, with STEP.2.***
 
 **![image](https://github.com/user-attachments/assets/6b6dd585-910e-4122-919f-ee0a4a27974a)**
 
@@ -24,7 +24,7 @@ pip install open3d
 
 ***![image](https://github.com/user-attachments/assets/344ba50f-9f51-4af2-b48f-fd0418f52b5a)***
 
-***4.Check it***
+***4.Check it!***
 
 
 
