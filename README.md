@@ -1,6 +1,6 @@
 <center># How to use Intel RealSense L515 with Python?</center>
 
-<center>**How to use this toy？ Intel Real|Sense L515.**</center>
+**How to use this toy？ Intel Real|Sense L515.**
 
 ***1.create your env with Conda to configure usage scenarios, with STEP.2***
 
