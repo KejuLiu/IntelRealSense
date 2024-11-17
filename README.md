@@ -1,4 +1,4 @@
-<center># How to use Intel RealSense L515 with Python?</center>
+### How to use Intel RealSense L515 with Python?
 
 **How to use this toy？ Intel Real|Sense L515.**
 
