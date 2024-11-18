@@ -30,6 +30,9 @@ pip install open3d
 
 ***6.If you wanna use this device for some machine learning or deep learning projects with GPU, just return STEP.2.***
 
+![9b7208fd-5807-4667-bdfd-d628b7218685](https://github.com/user-attachments/assets/e7e3ad39-6b8d-42e4-8c96-fb24435d0f35)
+
+
 
 
 
