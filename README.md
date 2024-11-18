@@ -26,7 +26,11 @@ pip install open3d
 
 ***4.Check it!***
 
-***5.With the Intel RealSense L515 cam checked, use your env*** 
+***5.With the Intel RealSense L515 cam checked, use your env***
+
+***6.If you wanna use this device for some machine learning or deep learning projects with GPU, just return STEP.2.***
+
+
 
 
 
