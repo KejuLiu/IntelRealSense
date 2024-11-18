@@ -1,8 +1,6 @@
 # How to use Intel RealSense L515 with Python?
 
-***0.How to use this toy？ Buy a Intel Real|Sense L515, and open your Intel RealSense Viewer***
-
-
+***0.How to use this toy？ Buy a Intel Real|Sense L515, and open your Intel RealSense Viewer.***
 
 ***1.Create your env with Conda to configure usage scenarios, with STEP.2.***
 
@@ -26,11 +24,14 @@ pip install open3d
 
 ***4.Check it!***
 
-***5.With the Intel RealSense L515 cam checked, use your env***
+***5.With the Intel RealSense L515 cam checked, use your env.***
 
 ***6.If you wanna use this device for some machine learning or deep learning projects with GPU, just return STEP.2.***
 
 ![9b7208fd-5807-4667-bdfd-d628b7218685](https://github.com/user-attachments/assets/e7e3ad39-6b8d-42e4-8c96-fb24435d0f35)
+
+***7.With this python check if your GPU env works.***
+***https://github.com/KejuLiu/check_Pytorch_scripts***
 
 
 
