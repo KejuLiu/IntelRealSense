@@ -26,5 +26,7 @@ pip install open3d
 
 ***4.Check it!***
 
+***5.With the Intel RealSense L515 cam checked, use your env*** 
+
 
 
