@@ -43,7 +43,9 @@ pip install open3d
 
 ***![image](https://github.com/user-attachments/assets/783cc8a8-acce-4d30-abe7-18125941bd68)***
 
-***example.2.***
+***example.2.The depth args in size 1024*768 and RGB args in size 1920*1080:***
+
+***![image](https://github.com/user-attachments/assets/1341ada8-976a-493c-b55b-f427389f5cb3)***
 
 
 
