@@ -8,8 +8,8 @@ pipeline = rs.pipeline()
 
 # Create a config并配置要流​​式传输的管道
 config = rs.config()
-config.enable_stream(rs.stream.depth, 1024, 768, rs.format.z16, 30)
-config.enable_stream(rs.stream.color, 1920, 1080, rs.format.bgr8, 30)
+config.enable_stream(rs.stream.depth, 640, 480, rs.format.z16, 30)
+config.enable_stream(rs.stream.color, 640, 480, rs.format.bgr8, 30)
 
 profile = pipeline.start(config)
 
@@ -52,7 +52,8 @@ try:
         depth_image = np.asanyarray(aligned_depth_frame.get_data())
         color_image = np.asanyarray(color_frame.get_data())
         depth_mapped_image = cv2.applyColorMap(cv2.convertScaleAbs(depth_image, alpha=0.03), cv2.COLORMAP_JET)
-        cv2.imshow("live", np.hstack((color_image, depth_mapped_image)))
+        cv2.imshow("live", color_image)#np.hstack((color_image, depth_image)
+        cv2.imshow("live2", depth_mapped_image)
         key = cv2.waitKey(30)
 
         # s 保存图片
