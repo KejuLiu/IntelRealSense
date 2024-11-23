@@ -35,6 +35,18 @@ pip install open3d
 ***https://github.com/KejuLiu/check_Pytorch_scripts***
 
 
+***8.Know about your camera args, use this py if necessary.***
+
+***![image](https://github.com/user-attachments/assets/272904fa-dae9-4690-879a-db634fde7fc1)***
+
+
+
+
+
+
+
+
+
 
 
 
