@@ -8,7 +8,7 @@ pipeline = rs.pipeline()
 
 # Create a config并配置要流​​式传输的管道
 config = rs.config()
-config.enable_stream(rs.stream.depth, 640, 480, rs.format.z16, 30)
+config.enable_stream(rs.stream.depth, 1024, 768, rs.format.z16, 30)
 config.enable_stream(rs.stream.color, 640, 480, rs.format.bgr8, 30)
 
 profile = pipeline.start(config)
@@ -49,6 +49,7 @@ try:
             continue
 
         depth_data = np.asanyarray(aligned_depth_frame.get_data(), dtype="float16")
+        print(depth_data.shape)
         depth_image = np.asanyarray(aligned_depth_frame.get_data())
         color_image = np.asanyarray(color_frame.get_data())
         depth_mapped_image = cv2.applyColorMap(cv2.convertScaleAbs(depth_image, alpha=0.03), cv2.COLORMAP_JET)
@@ -63,10 +64,11 @@ try:
 
             # 彩色图片保存为png格式
             cv2.imwrite(os.path.join((save_path), "color", "{}.png".format(saved_count)), saved_color_image)
+            cv2.imwrite(os.path.join((save_path), "depth", "{}.png".format(saved_count)), saved_depth_mapped_image)
             # 深度信息由采集到的float16直接保存为npy格式
             np.save(os.path.join((save_path), "depth", "{}".format(saved_count)), depth_data)
             saved_count += 1
-            cv2.imshow("save", np.hstack((saved_color_image, saved_depth_mapped_image)))
+            cv2.imshow("save", saved_color_image)
 
         # q 退出
         if key & 0xFF == ord('q') or key == 27:
