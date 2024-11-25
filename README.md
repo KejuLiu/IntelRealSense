@@ -1,26 +1,23 @@
 # RGB-D with Intel RealSense L515
+# How to use this powerful miniRGB-D machine from Intel？ Buy a Intel Real|Sense L515, and open your Intel RealSense Viewer
 
-
-
-***0.How to use this powerful miniRGB-D machine from Intel？ Buy a Intel Real|Sense L515, and open your Intel RealSense Viewer.***
-
-demoIRS_1
+# demoIRS_1
 
 ![image](https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_1.gif)
 
-***Here demoIRS1 link: https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_1.gif***
+# Here demoIRS1 link: https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_1.gif
 
-demoIRS_2
+# demoIRS_2
 
 ![image](https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_2.gif)
 
-***Here demoIRS1 link: https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_2.gif***
+# Here demoIRS1 link: https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_2.gif
 
-demoIRS_3
+# demoIRS_3
 
 ![image](https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_3.gif)
 
-***Here demoIRS1 link: https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_3.gif***
+# Here demoIRS1 link: https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_3.gif
 
 ***1.Create your env with Conda to configure usage scenarios, with STEP.2.***
 
