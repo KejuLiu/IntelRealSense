@@ -1,4 +1,4 @@
-# RGB-D&Point Cloud  Reconstruction with Intel RealSense Hardware, RGB-D with Intel RealSense L515
+# RGB-D with Intel RealSense Hardware: Intel RealSense L515
 
 # demoIRS_1
 ![image](https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_1.gif)
