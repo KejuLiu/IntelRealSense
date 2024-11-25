@@ -6,6 +6,8 @@
 
 demoIRS_1
 
+https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_1.gif
+
 demoIRS_2
 
 demoIRS_3
