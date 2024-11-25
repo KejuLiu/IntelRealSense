@@ -1,5 +1,4 @@
 # RGB-D with Intel RealSense L515
-# How to use this powerful miniRGB-D machine from Intel？ Buy a Intel Real|Sense L515, and open your Intel RealSense Viewer
 
 # demoIRS_1
 
