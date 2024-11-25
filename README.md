@@ -10,11 +10,9 @@
 ![image](https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_3.gif)
 
 ***1.Create your env with Conda to configure usage scenarios, with STEP.2.***
-
-***![image](https://github.com/user-attachments/assets/6b6dd585-910e-4122-919f-ee0a4a27974a)**
+![image](https://github.com/user-attachments/assets/6b6dd585-910e-4122-919f-ee0a4a27974a)
 
 ***2.Prepare your dependencies，main libraries and packages:***
-
 pip install pyrealsense2==2.54.2.5684 (***Just Stable***)
 
 pip install numpy
@@ -26,8 +24,7 @@ pip install open3d
 ...
 
 ***3.Check the cam, most time, run this code named "CheckIRS.py", just check if the cam works.***
-
-***![image](https://github.com/user-attachments/assets/344ba50f-9f51-4af2-b48f-fd0418f52b5a)***
+![image](https://github.com/user-attachments/assets/344ba50f-9f51-4af2-b48f-fd0418f52b5a)
 
 ***4.Check it!***
 
@@ -43,15 +40,15 @@ pip install open3d
 
 ***8.Know about your camera args, use this py if necessary.***
 
-***![image](https://github.com/user-attachments/assets/272904fa-dae9-4690-879a-db634fde7fc1)***
+![image](https://github.com/user-attachments/assets/272904fa-dae9-4690-879a-db634fde7fc1)
 
 ***example.1.The depth args in size 640x480 and RGB args in size 1280x720:***
 
-***![image](https://github.com/user-attachments/assets/783cc8a8-acce-4d30-abe7-18125941bd68)***
+![image](https://github.com/user-attachments/assets/783cc8a8-acce-4d30-abe7-18125941bd68)
 
 ***example.2.The depth args in size 1024x768 and RGB args in size 1920x1080:***
 
-***![image](https://github.com/user-attachments/assets/1341ada8-976a-493c-b55b-f427389f5cb3)***
+![image](https://github.com/user-attachments/assets/1341ada8-976a-493c-b55b-f427389f5cb3)
 
 
 
