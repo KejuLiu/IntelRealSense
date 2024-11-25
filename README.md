@@ -1,8 +1,14 @@
-# RGB-D with Python? Intel RealSense L515!
+# RGB-D with Intel RealSense L515
 
 
 
-***0.How to use this toy？ Buy a Intel Real|Sense L515, and open your Intel RealSense Viewer.***
+***0.How to use this powerful miniRGB-D machine from Intel？ Buy a Intel Real|Sense L515, and open your Intel RealSense Viewer.***
+
+demoIRS_1
+
+demoIRS_2
+
+demoIRS_3
 
 ***1.Create your env with Conda to configure usage scenarios, with STEP.2.***
 
