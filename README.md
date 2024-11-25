@@ -6,7 +6,7 @@
 
 demoIRS_1
 
-![image_gif]([(https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_1.gif)])
+![image]([(https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_1.gif)])
 
 https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_1.gif
 
