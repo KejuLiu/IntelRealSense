@@ -5,25 +5,25 @@
 
 ![image](https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_1.gif)
 
-# Here demoIRS1 link: https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_1.gif
+Here demoIRS1 link: https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_1.gif
 
 # demoIRS_2
 
 ![image](https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_2.gif)
 
-# Here demoIRS1 link: https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_2.gif
+Here demoIRS1 link: https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_2.gif
 
 # demoIRS_3
 
 ![image](https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_3.gif)
 
-# Here demoIRS1 link: https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_3.gif
+Here demoIRS1 link: https://github.com/KejuLiu/IntelRealSense/blob/main/Intel10fps_3.gif
 
-***1.Create your env with Conda to configure usage scenarios, with STEP.2.***
+# 1.Create your env with Conda to configure usage scenarios, with STEP.2.***
 
 **![image](https://github.com/user-attachments/assets/6b6dd585-910e-4122-919f-ee0a4a27974a)**
 
-***2.Prepare your dependencies，main libraries and packages:***
+# 2.Prepare your dependencies，main libraries and packages:***
 
 pip install pyrealsense2==2.54.2.5684 (***Just Stable***)
 
@@ -35,24 +35,24 @@ pip install open3d
 
 ...
 
-***3.Check the cam, most time, run this code named "CheckIRS.py", just check if the cam works.***
+# 3.Check the cam, most time, run this code named "CheckIRS.py", just check if the cam works.***
 
 ***![image](https://github.com/user-attachments/assets/344ba50f-9f51-4af2-b48f-fd0418f52b5a)***
 
-***4.Check it!***
+# 4.Check it!***
 
-***5.With the Intel RealSense L515 cam checked, use your env.***
+# 5.With the Intel RealSense L515 cam checked, use your env.***
 
-***6.If you wanna use this device for some machine learning or deep learning projects with GPU, just return STEP.2.***
+# 6.If you wanna use this device for some machine learning or deep learning projects with GPU, just return STEP.2.***
 
 ![9b7208fd-5807-4667-bdfd-d628b7218685](https://github.com/user-attachments/assets/e7e3ad39-6b8d-42e4-8c96-fb24435d0f35)
 
-***7.With this python check if your GPU env works.***
+# 7.With this python check if your GPU env works.***
 
 ***https://github.com/KejuLiu/check_Pytorch_scripts***
 
 
-***8.Know about your camera args, use this py if necessary.***
+# 8.Know about your camera args, use this py if necessary.***
 
 ***![image](https://github.com/user-attachments/assets/272904fa-dae9-4690-879a-db634fde7fc1)***
 
