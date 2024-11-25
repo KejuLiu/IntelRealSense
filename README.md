@@ -31,15 +31,12 @@ pip install open3d
 ***5.With the Intel RealSense L515 cam checked, use your env.***
 
 ***6.If you wanna use this device for some machine learning or deep learning projects with GPU, just return STEP.2.***
-
 ![9b7208fd-5807-4667-bdfd-d628b7218685](https://github.com/user-attachments/assets/e7e3ad39-6b8d-42e4-8c96-fb24435d0f35)
 
 ***7.With this python check if your GPU env works.***
-
-***https://github.com/KejuLiu/check_Pytorch_scripts***
+link:https://github.com/KejuLiu/check_Pytorch_scripts
 
 ***8.Know about your camera args, use this py if necessary.***
-
 ![image](https://github.com/user-attachments/assets/272904fa-dae9-4690-879a-db634fde7fc1)
 
 ***example.1.The depth args in size 640x480 and RGB args in size 1280x720:***
